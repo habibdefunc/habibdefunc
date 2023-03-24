@@ -17,9 +17,8 @@
 ---
 
 ### Tech stack i'm currently used :
+![Go](https://img.shields.io/badge/go-blue?style=for-the-badge)
 ![Reactjs](https://img.shields.io/badge/-React-blue?style=for-the-badge)
-![Nodejs](https://img.shields.io/badge/-node-js?style=for-the-badge)
-![Expressjs](https://img.shields.io/badge/-Express-green?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 
 ---
