@@ -1,7 +1,8 @@
 ---
 
 ### Hi There, I'm Habib Ritonga 👋
-I'm new web developer want to dedicated my skills to people or communities around me. So if you want collaborating with me, please to connect with me through my socials listed up above. Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Looking forward to connecting with you! ❤️
+
+<p>I'm new web developer want to dedicated my skills to people or communities around me. So if you want collaborating with me, please to connect with me through my socials listed up above. Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Looking forward to connecting with you! ❤️ <p/>
 
 - 📖 CS'21 at UINSU.
 - 💞️ I’m looking to a partner in code 👀.
