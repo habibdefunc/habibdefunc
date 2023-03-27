@@ -20,8 +20,9 @@
 ![Go](https://img.shields.io/badge/go-blue?style=for-the-badge)
 ![Gin](https://img.shields.io/badge/gin-blue?style=for-the-badge)
 ![Gorm](https://img.shields.io/badge/gorm-blue?style=for-the-badge)
-![Reactjs](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 
+![Reactjs](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 ![Tailwindcss](https://img.shields.io/badge/-tailwind-blue?style=for-the-badge)
+
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 ![PostgreSql](https://img.shields.io/badge/-postgresql-green?style=for-the-badge)
