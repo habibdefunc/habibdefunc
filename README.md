@@ -16,10 +16,9 @@
 
 
 
-## Tech stack i'm currently used is G3RT stack :
-![Go](https://img.shields.io/badge/go-blue?style=for-the-badge)
-![Gin](https://img.shields.io/badge/gin-blue?style=for-the-badge)
-![Gorm](https://img.shields.io/badge/gorm-blue?style=for-the-badge)
+## Tech stack i'm currently used is TREN stack :
+![Nodejs](https://img.shields.io/badge/-node-js?style=for-the-badge)
+![Expressjs](https://img.shields.io/badge/express-white?style=for-the-badge)
 
 ![Reactjs](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 ![Tailwindcss](https://img.shields.io/badge/-tailwind-blue?style=for-the-badge)
