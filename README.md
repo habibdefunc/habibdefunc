@@ -19,9 +19,9 @@
 ## Tech stack i'm currently used is TREN stack :
 ![Nodejs](https://img.shields.io/badge/-node-js?style=for-the-badge)
 ![Expressjs](https://img.shields.io/badge/express-white?style=for-the-badge)
-![Reactjs](https://img.shields.io/badge/-React-blue?style=for-the-badge)
-![Reactjs](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge)
-
-![Tailwindcss](https://img.shields.io/badge/-tailwind-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
-![PostgreSql](https://img.shields.io/badge/-postgre-green?style=for-the-badge)
+
+![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge)
+![Reactjs](https://img.shields.io/badge/-React-blue?style=for-the-badge)
+![Tailwindcss](https://img.shields.io/badge/-tailwind-blue?style=for-the-badge)
+
