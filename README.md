@@ -28,6 +28,6 @@
 
 ## Check out some of the things I've built!
 <ul>
-  <li><a href="https://aerosphere.netlify.app">Aerosphere (Discontinued, Staging Version)</a></li>
-  <li><a href="">Vibes App (On Going, Staging Version)</a></li>
+  <li><a href="https://aerosphere.netlify.app" target="__blank">Aerosphere (Discontinued, Staging Version)</a></li>
+  <li><a href="" target="__blank">Vibes App (On Going, Staging Version)</a></li>
 </ul>
