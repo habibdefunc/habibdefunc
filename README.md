@@ -23,7 +23,6 @@
 
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge)
 ![Reactjs](https://img.shields.io/badge/-React-blue?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-laravel?style=for-the-badge)
 
 
 ## Check out some of the things I've built!
