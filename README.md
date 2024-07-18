@@ -28,5 +28,6 @@
 
 ## Check out some of the things I've built!
 <ul>
+  <li><a href="https://habibfunc.vercel.app">HabibFnc (Continued, On Update)</a></li>
   <li><a href="https://aerosphere.netlify.app">Aerosphere (Discontinued, Staging Version)</a></li>
 </ul>
