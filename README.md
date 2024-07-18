@@ -4,7 +4,7 @@
 
 - 📖 CS'21 at UINSU.
 - 💞️ I’m looking to a partner in code 👀.
-- 📫 My Portfolio?? : << On Progress >>.
+- 📫 My Portfolio?? : https://habibfunc.vercel.app
 
 
 ## Connect with me :
