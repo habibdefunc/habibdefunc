@@ -1,6 +1,6 @@
 # Hi There, I'm Habib Ritonga 👋
 
-#### I'm new web developer want to dedicated my skills to people or communities around me. So if you want collaborating with me, please to connect with me through my       socials listed up above. Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Looking forward to               connecting with you! ❤️
+#### I'm a web developer eager to showcase my projects to find exciting opportunities or connect with like-minded individuals for collaboration. If you're interested in working together or exploring my work, feel free to reach out to me through my social links above. Check out my projects below, and don't hesitate to leave a star (or 'like') if you find something inspiring or useful. Looking forward to building something amazing with you! ❤️
 
 - 💞️ I’m looking to a partner in code 👀.
 - 📫 My Portfolio?? : https://habibfunc.vercel.app
