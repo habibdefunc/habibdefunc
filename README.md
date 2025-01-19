@@ -6,13 +6,6 @@
 - 📫 My Portfolio?? : https://habibfunc.vercel.app
 
 
-## Connect with me :
-<a href = "https://www.instagram.com/mhdnaufalhartg/" alt="Instagram"><img src="https://img.icons8.com/fluency//000000/instagram-new.png" height="40" width="40" style= margin-right:15px;/></a>
-<a href = "https://www.twitter.com/mhdnaufalhartg/" alt="Twitter"><img src="https://cdn-icons-png.flaticon.com/512/3128/3128310.png" height="40" width="40" style= margin-right:15px;/></a>
-<a href = "mailto:devdothabib@gmail.com" alt="Email"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" style= margin-right:15px;/></a>
-<a href = "https://linkedin.com/in/habib-ritonga" alt="Email"><img src="https://img.icons8.com/color/512/linkedin-circled.png" height="40" width="40" style= margin-right:15px;/></a>
-
-
 
 ## Tech stack i used  :
 ![Nestjs](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=whitel)
@@ -34,3 +27,10 @@
   <li><a href="https://habibfunc.vercel.app">HabibFnc (Still Update)</a></li>
   <li><a href="https://aerosphere.netlify.app">Aerosphere (Discontinued)</a></li>
 </ul>
+
+
+## Connect with me :
+<a href = "https://www.instagram.com/mhdnaufalhartg/" alt="Instagram"><img src="https://img.icons8.com/fluency//000000/instagram-new.png" height="40" width="40" style= margin-right:15px;/></a>
+<a href = "https://www.twitter.com/mhdnaufalhartg/" alt="Twitter"><img src="https://cdn-icons-png.flaticon.com/512/3128/3128310.png" height="40" width="40" style= margin-right:15px;/></a>
+<a href = "mailto:devdothabib@gmail.com" alt="Email"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" style= margin-right:15px;/></a>
+<a href = "https://linkedin.com/in/habib-ritonga" alt="Email"><img src="https://img.icons8.com/color/512/linkedin-circled.png" height="40" width="40" style= margin-right:15px;/></a>
