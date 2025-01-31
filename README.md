@@ -8,9 +8,6 @@
 
 
 ## Tech stack i used  :
-![Nestjs](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=whitel)
-![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
-
 ![Expressjs](https://img.shields.io/badge/express-white?style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge)
 
