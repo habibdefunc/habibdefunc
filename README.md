@@ -21,7 +21,7 @@
 
 ## Check out some of the things I've built!
 <ul>
-  <li><a href="https://habibfunc.vercel.app">HabibFnc (Still Update)</a></li>
+  <li><a href="https://habibfunc.vercel.app">HabibFnc Portfolio (Always Update)</a></li>
   <li><a href="https://aerosphere.netlify.app">Aerosphere (Discontinued)</a></li>
 </ul>
 
