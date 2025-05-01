@@ -8,13 +8,7 @@
 
 
 ## Tech stack i used  :
-![Expressjs](https://img.shields.io/badge/express-white?style=for-the-badge)
-![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge)
-![Reactjs](https://img.shields.io/badge/-React-blue?style=for-the-badge)
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,expressjs,mysql,postgresql,react,tailwindcss,bootstrap&perline=4)](https://skillicons.dev)
 
 
 ## Check out some of the things I've built!
