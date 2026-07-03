@@ -7,7 +7,7 @@
 
 ## Tech stack i used :
 
-[![My Skills](https://skillicons.dev/icons?i=golang,express,postgresql,mysql,react,tailwindcss&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,laravel,postgresql,mysql,react,tailwindcss&perline=3)](https://skillicons.dev)
 
 
 ## Check out some of the things I've built!
