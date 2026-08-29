@@ -14,7 +14,7 @@
 
 <ul>
   <li><a href="https://habibfunc.vercel.app">HabibFnc Portfolio (Always Update)</a></li>
-  <li><a href="https://aerosphere.netlify.app">Aerosphere (Discontinued)</a></li>
+  <li><a href="https://aerosenses.vercel.app">AeroSense (Discontinued)</a></li>
 </ul>
 
 ## Play with me :
